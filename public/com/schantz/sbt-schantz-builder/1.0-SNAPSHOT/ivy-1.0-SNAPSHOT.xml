@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
-	<info organisation="com.schantz" module="sbt-schantz-builder" revision="1.0-SNAPSHOT" status="release" publication="20120110142631" e:scalaVersion="2.9.1" e:sbtVersion="0.11.2">
+	<info organisation="com.schantz" module="sbt-schantz-builder" revision="1.0-SNAPSHOT" status="release" publication="20120110142929" e:scalaVersion="2.9.1" e:sbtVersion="0.11.2">
 		<description>
 		sbt-schantz-builder
 		</description>
